@@ -14,6 +14,8 @@
       - **Too much, but each point's data is important**: Cluster your points with [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
 
         ![](http://f.cl.ly/items/1X312Y3q3t2W1v0T0c13/Screen%20Shot%202014-06-26%20at%205.03.10%20PM.png)
+
+        example: http://open.undp.org/#2014/filter/operating_unit-AFG
       
       - **Too much, the points have some value that can be aggregated**: Create hexbins of your points with the [QGIS hexbin](https://www.mapbox.com/blog/binning-alternative-point-maps/) plugin
         
@@ -28,6 +30,8 @@
       - **Just enough**:Convert the data to [GeoJSON](http://geojson.org/) & make a simple Leaflet map
 
         ![](http://f.cl.ly/items/3Z2z1U022u020w1n0C1v/Screen%20Shot%202014-06-26%20at%205.07.02%20PM.png)
+
+        example: http://leafletjs.com/examples/choropleth.html
       
       - **Too much, the polygons have necessary detail**: Use TileMill to render an interactive map with [UTFGrid](https://www.mapbox.com/developers/utfgrid/). If you've ever made a map with tilemill, the interactivities are using UTFGrid. See [tutorial](https://www.mapbox.com/tilemill/docs/crashcourse/tooltips/).
 
