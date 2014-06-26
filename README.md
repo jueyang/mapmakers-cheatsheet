@@ -39,7 +39,7 @@
     
     - What kind of attributes do they have?
       - **Absolute numbers**:Convert the points to centroids with [QGIS](http://www.qgis.org/)
-      - **Normalized the absolute*: Make a choropleth map with Leaflet for small data, [TileMill](https://www.mapbox.com/tilemill/)for big data
+      - **Normalized the absolute**: Make a choropleth map with Leaflet for small data, [TileMill](https://www.mapbox.com/tilemill/)for big data
 
 - Visualization defaults
   - Projection:
